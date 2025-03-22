@@ -1,11 +1,3 @@
-## Hi there 👋
-
-- 🔭 Je travaille actuellement sur des projets web.
-- 🌱 J'apprends en ce moment TypeScript pour passer en full-stack TypeScript. Si une opportunité s'ouvre à moi, je m'adapterai
-- 🏅 J'aime les sports: 🏃‍♂️le running, 🧗‍♂️l'escalade, ⛹️‍♂️le basketball
-- 📫 Pour me contacter : https://www.linkedin.com/in/p-zhou
-- ⚡ Fun fact : Je crois fermement que la persévérance et de bonnes habitudes font de chacun de nous une meilleure personne.
-
 ## Mes Techs:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
